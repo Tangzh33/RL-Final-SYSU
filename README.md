@@ -59,4 +59,4 @@ conda activate rl_final
 
 One of the results runing the task Pendulum-v0:
 
-![Pendulum-v0_results](./pic/Pendulum-v0_result.png)
+![Pendulum-v0_results](./pic/Pendulum-v0_results.png)
