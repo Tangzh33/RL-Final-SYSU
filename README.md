@@ -53,7 +53,7 @@ conda activate rl_final
   -   Finetuing Hyper-parameters: You can refer to the report.
   -   Import auto-tuning methods: You can refer to the `ddpg_Simulated_Annealing_lr.py`
   -   For more details, you can refer to the reproducibility report.
-- For reproduction, you can refer to the source code and use the hyper-parameters combination using running time variants.(e.g. if we want to run the baseline code with learning rate 5e-4 in Pendulum-v0, you can run `python --gym_id Pendulum-v0 --lr 5e-4 --train`)
+- For reproduction, you can refer to the source code and use the hyper-parameters combination using runtime variants.(e.g. if we want to run the baseline code with learning rate 5e-4 in Pendulum-v0, you can use `python --gym_id Pendulum-v0 --lr 5e-4 --train`)
 
 ## Results
 
