@@ -1,4 +1,4 @@
-# Reinforcement Learning Final Report
+# Reinforcement Learning & Game Theory Final Project Report
 > Guided by Prof. Xu Chen
 
 This repository holds the code that is used to reproduce the paper "[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)".
