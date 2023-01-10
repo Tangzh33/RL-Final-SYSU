@@ -1,7 +1,7 @@
 # Reinforcement Learning Final Report
 > Guided by Prof. Xu Chen
 
-This repository holds the code that is used to reproduce the paper "Continuous control with deep reinforcement learning".
+This repository holds the code that is used to reproduce the paper "[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)".
 
 ## Authors
 * Zhe Tang (Email: tangzh_33@163.com)
@@ -59,4 +59,4 @@ conda activate rl_final
 
 One of the results runing the task Pendulum-v0:
 
-![Pendulum-v0_results](./pic/Pendulum-v0_result)
+![Pendulum-v0_results](./pic/Pendulum-v0_result.png)
